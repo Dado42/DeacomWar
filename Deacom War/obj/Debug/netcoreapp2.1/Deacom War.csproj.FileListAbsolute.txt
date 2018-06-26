@@ -1,0 +1,11 @@
+C:\Users\Alejandro\Documents\Deacom War\bin\Debug\netcoreapp2.1\Deacom War.deps.json
+C:\Users\Alejandro\Documents\Deacom War\bin\Debug\netcoreapp2.1\Deacom War.runtimeconfig.json
+C:\Users\Alejandro\Documents\Deacom War\bin\Debug\netcoreapp2.1\Deacom War.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Deacom War\bin\Debug\netcoreapp2.1\Deacom War.dll
+C:\Users\Alejandro\Documents\Deacom War\bin\Debug\netcoreapp2.1\Deacom War.pdb
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.dll
+C:\Users\Alejandro\Documents\Deacom War\obj\Debug\netcoreapp2.1\Deacom War.pdb
